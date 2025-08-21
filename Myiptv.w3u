@@ -1,8 +1,10 @@
 {
-  "name": "TV Online",
+              "name": "TV Online",
   "image": "https://img5.pic.in.th/file/secure-sv1/Jake2.png",
-  "url": "https://raw.githubusercontent.com/swisszz/Myiptv/refs/heads/main/Myiptv.json",
+  "url": "https://raw.githubusercontent.com/swisszz/Myiptv/main/Myiptv.json",
   "stations": [
+
+
     {
       "name": "FWMOV",
       "image": "https://n9.cl/hr92t",
@@ -141,4 +143,5 @@
       "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
       "referer": "https://www.inwiptv.com/"
     }
-  
+  ]
+}
