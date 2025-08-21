@@ -131,18 +131,20 @@
       "url": "https://www.inwiptv.com/player_demo.php?channel=27135",
       "referer": "https://www.inwiptv.com/"
     },
-{
-"name": "ลูกทุ่งเน็ตเวิร์ก",
-"image": "https://dl.dropboxusercontent.com/scl/fi/3v6a5p28jxr1o6o3f6vmp/looktungnetwork.png?rlkey=qtzju2msom19e0451rbtnt3r9&dl=0",
-"url": "https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/playlist.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{"name"		:" ไทไชโย",
-"image"		:"https://dl.dropboxusercontent.com/scl/fi/pmpngwrkz6iafbvj4ji4l/.png?rlkey=7x59d62fhjs2o4qn6jxs3gyg8&dl=0",
-"url"			:"https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8",
-"referer"		: "", 
-"userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
+    {
+      "name": "ลูกทุ่งเน็ตเวิร์ก",
+      "image": "https://dl.dropboxusercontent.com/scl/fi/3v6a5p28jxr1o6o3f6vmp/looktungnetwork.png?rlkey=qtzju2msom19e0451rbtnt3r9&dl=0",
+      "url": "https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/playlist.m3u8",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ไทไชโย",
+      "image": "https://dl.dropboxusercontent.com/scl/fi/pmpngwrkz6iafbvj4ji4l/.png?rlkey=7x59d62fhjs2o4qn6jxs3gyg8&dl=0",
+      "url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+    },
     {
       "name": "7HD",
       "image": "https://n9.cl/z1wz0w",
