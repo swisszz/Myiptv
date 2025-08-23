@@ -164,6 +164,12 @@
       "referer": "http://cf3e1888.akadatel.com/"
     },
     {
+      "name": "MTV",
+      "image": "https://n9.cl/ftqnk",
+      "url": "https://izle.canlitvapp.com/mtv/tracks-v1a1/mono.m3u8",
+      "referer": "https://izle.canlitvapp.com/"
+    },
+    {
       "name": "PPTV HD 36",
       "image": "https://n9.cl/wmbwp",
       "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
