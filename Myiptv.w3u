@@ -8,7 +8,7 @@
     {
       "name": "Discovery",
       "image": "https://n9.cl/s1jy4",
-      "url": "https://izle.canlitvapp.com/disco/tracks-v1a1/mono.m3u8",
+      "url": "https://relink.asia/mXVj4",
       "referer": "https://izle.canlitvapp.com/"
     },
     {
@@ -139,6 +139,12 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "ลูกทุ่งทีวี",
+      "image": "https://n9.cl/9j43v",
+      "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+      "referer": "https://livefta.malimarcdn.com/"
+    },
+    {
       "name": "ไทไชโย",
       "image": "https://dl.dropboxusercontent.com/scl/fi/pmpngwrkz6iafbvj4ji4l/.png?rlkey=7x59d62fhjs2o4qn6jxs3gyg8&dl=0",
       "url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8",
@@ -166,7 +172,7 @@
     {
       "name": "MTV",
       "image": "https://n9.cl/ftqnk",
-      "url": "https://izle.canlitvapp.com/mtv/tracks-v1a1/mono.m3u8",
+      "url": "https://relink.asia/VI6G9",
       "referer": "https://izle.canlitvapp.com/"
     },
     {
