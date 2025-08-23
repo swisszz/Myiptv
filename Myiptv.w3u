@@ -163,10 +163,28 @@
       "url": "https://www.inwiptv.com/player_demo.php?channel=27132",
       "referer": "https://www.inwiptv.com/"
     },
+    {
+      "name": "Pro7🇩🇪",
+      "image": "https://n9.cl/c5r8r",
+      "url": "https://www.canlitv.me/live/prosieben-live",
+      "referer": "https://www.canlitv.me/"
+    },
      {
       "name": "RTL🇩🇪",
       "image": "https://n9.cl/3kqnb",
       "url": "https://www.canlitv.me/live/rtl-live",
+      "referer": "https://www.canlitv.me/"
+    },
+    {
+      "name": "Vox🇩🇪",
+      "image": "https://n9.cl/vgty9",
+      "url": "https://www.canlitv.me/live/vox-live",
+      "referer": "https://www.canlitv.me/"
+    },
+    {
+      "name": "Zdf🇩🇪",
+      "image": "https://n9.cl/znnvt8",
+      "url": "https://www.canlitv.me/live/zdf-live",
       "referer": "https://www.canlitv.me/"
     },
     {
