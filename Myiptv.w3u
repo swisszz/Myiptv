@@ -202,8 +202,8 @@
     {
       "name": "SRF2🇩🇪",
       "image": "https://n9.cl/wkuni",
-      "url": "https://www.srf.ch/play/tv/live/srf-zwei?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-      "referer": "https://www.srf.ch/"
+      "url": "https://tv.teleboy.ch/live(player:live/304)",
+      "referer": "https://tv.teleboy.ch"
     },
     {
       "name": "MTV🇩🇪",
