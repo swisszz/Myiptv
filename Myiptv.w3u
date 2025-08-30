@@ -229,6 +229,12 @@
       "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
       "referer": "https://www.inwiptv.com/"
     },
+   {
+      "name": "Aljazeera Live",
+      "image": "https://n9.cl/a74ek2",
+      "url": "https://www.aljazeera.com/live",
+      "referer": "https://www.aljazeera.com/"
+    },
     {
       "name": "PPTV HD 36🇹🇭TV ",
       "image": "https://n9.cl/wmbwp",
